@@ -1,0 +1,19 @@
+
+.inputStyle{
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.containerStyle{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.bookRecords{
+    display: flex;
+    flex-wrap: wrap;
+}
